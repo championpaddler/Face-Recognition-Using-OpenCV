@@ -1,5 +1,5 @@
 # Face-Recognition-Using-OpenCV
-Python Script to Recognize Images using OpenCV
+Python Script to Recognize Faces using OpenCV
 
 
 How To Run:
